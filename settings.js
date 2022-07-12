@@ -34,7 +34,7 @@ global.btnurl = 'https://github.com/rexthecoder' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
+global.packname = '☬RextheBot' //Bot Pacage Name
 global.author = '😎rexthecoder' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
